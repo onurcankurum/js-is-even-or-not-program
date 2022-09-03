@@ -8,3 +8,5 @@ before you run commands make sure you have node is installed in your system
 git clone https://github.com/onurcankurum/js-is-even-or-not-program.git
 node is_even_or_odd.js
 ```
+## console video
+ <img src="watchme.gif" width="800">
